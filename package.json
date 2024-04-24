@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "async": "^3.1.5",
-    "bitcoin-core": "^3.1.0",
+    "bitcoin-core": "^2.3.0",
     "bitcoin-node-api": "git+http://git@github.com/ROZ-MOFUMOFU-ME/Bitcoin-Node-Api.git",
     "body-parser": "^1.20.2",
     "cookie-parser": "^1.4.6",
